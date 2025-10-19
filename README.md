@@ -40,17 +40,18 @@ ISI_LESI_DianaPinto_N24963/
         ├── Program.cs
         └── Controladores/
             └── Controlador.cs
-       
 
-3. Ferramentas Utilizadas
+    
+4. Ferramentas Utilizadas
 Ferramenta	Finalidade
 KNIME Analytics Platform	Criação dos fluxos ETL (extração, transformação e carga)
 MySQL	Armazenamento relacional dos dados processados
 C# (.NET 6)	Implementação da API para exposição dos dados em XML
 Power BI Desktop	Desenvolvimento de dashboards e relatórios interativos
 CSV / XML / PDF / PBIX	Formatos utilizados ao longo do processo
-4. Instruções de Execução
-4.1 Pré-requisitos
+
+5. Instruções de Execução
+5.1 Pré-requisitos
 
 Antes de executar o projeto, devem estar instaladas as seguintes ferramentas:
 
@@ -62,7 +63,7 @@ Visual Studio (com .NET 6 SDK)
 
 Power BI Desktop
 
-4.2 Criação da Base de Dados MySQL
+5.2 Criação da Base de Dados MySQL
 
 A base de dados utilizada para armazenar os registos de faturação foi criada com os seguintes comandos:
 
@@ -139,7 +140,7 @@ CREATE TABLE logs_rejeicoes (
     ON DELETE SET NULL
 );
 
-4.3 Execução do Workflow no KNIME
+5.3 Execução do Workflow no KNIME
 
 Abrir o KNIME Analytics Platform.
 
@@ -159,7 +160,7 @@ Carga: gravação dos dados validados na tabela faturas;
 
 Exportação: criação do ficheiro File_0.xml e do relatório Relatorio_Fatura.pdf.
 
-4.4 Execução da API em C#
+5.4 Execução da API em C#
 
 Abrir o projeto src/Faturacao_DianaPinto_N24963_ISI_LESI/Faturacao.sln no Visual Studio.
 
@@ -169,7 +170,7 @@ O endpoint principal disponibiliza os registos em formato XML:
 
 https://localhost:<5000>/faturas/xml
 
-4.5 Visualização no Power BI
+5.5 Visualização no Power BI
 
 Abrir o ficheiro PowerBI_DianaPinto_N24963_LESI.pbix.
 
@@ -185,14 +186,15 @@ Produtos mais vendidos
 
 Encomendas pendentes
 
-5. Indicadores Principais (KPIs)
+6. Indicadores Principais (KPIs)
 Indicador	Descrição
 Total Faturado (€)	Soma do valor total das faturas emitidas
 Número de Faturas Emitidas	Contagem de faturas distintas
 Produtos Mais Vendidos	Ranking por SKU
 Encomendas Pendentes	Encomendas ainda sem estado “Paga”
 Ticket Médio (€)	Valor médio por fatura
-6. Estrutura do Processo ETL
+
+7. Estrutura do Processo ETL
 
 O processo desenvolvido no KNIME foi dividido em quatro fases principais:
 
@@ -204,7 +206,7 @@ Carga – Inserção dos dados validados na base de dados MySQL.
 
 Exportação – Geração dos ficheiros XML e PDF para posterior análise no Power BI.
 
-7. Conteúdo do ZIP Final
+8. Conteúdo do ZIP Final
 Pasta / Ficheiro	Descrição
 doc/	Relatório final do trabalho (.docx)
 dataint/	Workflow KNIME (.knwf)
@@ -213,8 +215,11 @@ data/output/	Ficheiros XML, PDF e Power BI
 src/	Código-fonte da API em C#
 README.md	Documento de referência e instruções
 
-8. Link vídeo de demonstração
+9. Link vídeo de demonstração
 https://alunosipca-my.sharepoint.com/:u:/g/personal/a24963_alunos_ipca_pt/EZhV-oHT9MpCpb4AW59h2O4BXLAI5FmmU9pSY6nhohh_Xw?e=OmjjMI
+
+10. Link do repositório
+https://github.com/dianapinto01/ISI_24963_DianaPinto.git
 
 9. Link do repositório
 https://github.com/dianapinto01/ISI_24963_DianaPinto.git
