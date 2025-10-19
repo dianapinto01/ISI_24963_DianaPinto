@@ -212,3 +212,6 @@ data/input/	Ficheiro de entrada CSV
 data/output/	Ficheiros XML, PDF e Power BI
 src/	Código-fonte da API em C#
 README.md	Documento de referência e instruções
+
+8. Link vídeo de demonstração
+https://alunosipca-my.sharepoint.com/:u:/g/personal/a24963_alunos_ipca_pt/EZhV-oHT9MpCpb4AW59h2O4BXLAI5FmmU9pSY6nhohh_Xw?e=OmjjMI
