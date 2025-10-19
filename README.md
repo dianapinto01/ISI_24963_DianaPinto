@@ -20,7 +20,7 @@ ISI_LESI_DianaPinto_N24963/
 ├── README.md
 │
 ├── doc/
-│   └── Relatório - Diana Pinto - nº 24963 - ISI - 3º Ano LESI - 2025.docx
+│   └── Relatório - Diana Pinto - nº 24963 - ISI - 3º Ano LESI - 2025.pdf
 │
 ├── dataint/
 │   └── ETL_Faturacao_DianaPinto_N24963_ISI_LESI.knwf
@@ -38,11 +38,9 @@ ISI_LESI_DianaPinto_N24963/
     └── Faturacao_DianaPinto_N24963_ISI_LESI/
         ├── Faturacao.sln
         ├── Program.cs
-        ├── Controladores/
-        │   └── Controlador.cs
-        ├── appsettings.json
-        ├── Properties/
-        └── wwwroot/
+        └── Controladores/
+            └── Controlador.cs
+       
 
 3. Ferramentas Utilizadas
 Ferramenta	Finalidade
