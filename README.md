@@ -15,6 +15,7 @@ Esses dados são posteriormente utilizados em relatórios e dashboards desenvolv
 Foi ainda criada uma API em C# (.NET) para disponibilizar os registos em formato XML através de um endpoint.
 
 2. Estrutura do Projeto
+```
 ISI_LESI_DianaPinto_N24963/
 │
 ├── README.md
@@ -40,7 +41,7 @@ ISI_LESI_DianaPinto_N24963/
         ├── Program.cs
         └── Controladores/
             └── Controlador.cs
-
+```
     
 4. Ferramentas Utilizadas
 Ferramenta	Finalidade
@@ -70,6 +71,7 @@ A base de dados utilizada para armazenar os registos de faturação foi criada c
 CREATE DATABASE faturacao
 USE faturacao;
 
+```
 CREATE TABLE faturas (
   id_fatura INT AUTO_INCREMENT PRIMARY KEY,
   numero_fatura VARCHAR(30) NOT NULL,
@@ -139,6 +141,7 @@ CREATE TABLE logs_rejeicoes (
     ON UPDATE CASCADE
     ON DELETE SET NULL
 );
+```
 
 5.3 Execução do Workflow no KNIME
 
