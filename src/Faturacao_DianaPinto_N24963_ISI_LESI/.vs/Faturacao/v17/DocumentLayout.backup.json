@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Faturacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|c:\\users\\admin\\source\\repos\\faturacao\\faturacao\\controladores\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|solutionrelative:faturacao\\controladores\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|c:\\users\\admin\\source\\repos\\faturacao\\faturacao\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|solutionrelative:faturacao\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|c:\\users\\admin\\source\\repos\\faturacao\\faturacao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|solutionrelative:faturacao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|c:\\users\\admin\\source\\repos\\faturacao\\faturacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|solutionrelative:faturacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|c:\\users\\admin\\source\\repos\\faturacao\\faturacao\\faturacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{805D3DA7-18F5-4296-A2B1-0A091BC8E3B6}|Faturacao\\Faturacao.csproj|solutionrelative:faturacao\\faturacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Faturacao\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Faturacao\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T13:56:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Program.cs",
+              "RelativeDocumentMoniker": "Faturacao\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Program.cs",
+              "RelativeToolTip": "Faturacao\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:49:27.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Controladores\\Controlador.cs",
+              "RelativeDocumentMoniker": "Faturacao\\Controladores\\Controlador.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Controladores\\Controlador.cs",
+              "RelativeToolTip": "Faturacao\\Controladores\\Controlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:52:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\appsettings.json",
+              "RelativeDocumentMoniker": "Faturacao\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\appsettings.json",
+              "RelativeToolTip": "Faturacao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T14:52:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Faturacao.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Faturacao.csproj",
+              "RelativeDocumentMoniker": "Faturacao\\Faturacao.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Faturacao\\Faturacao\\Faturacao.csproj",
+              "RelativeToolTip": "Faturacao\\Faturacao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T14:48:57.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

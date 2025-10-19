@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Faturacao.Controladores.FaturasController",
+    "Method": "GetXml",
+    "RelativePath": "faturas/xml",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Faturacao.Controladores.FaturasController",
+    "Method": "GetXmlNaoPagas",
+    "RelativePath": "faturas/xml-nao-pagas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
