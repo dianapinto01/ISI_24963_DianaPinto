@@ -224,5 +224,3 @@ https://alunosipca-my.sharepoint.com/:u:/g/personal/a24963_alunos_ipca_pt/EZhV-o
 10. Link do repositório
 https://github.com/dianapinto01/ISI_24963_DianaPinto.git
 
-9. Link do repositório
-https://github.com/dianapinto01/ISI_24963_DianaPinto.git
